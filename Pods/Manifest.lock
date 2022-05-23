@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.5.0)
+  - ObjectMapper (4.2.0)
+  - R.swift (6.1.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ObjectMapper
+  - R.swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - R.swift
+    - R.swift.Library
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  R.swift: ec98ff71c4ab2f6fd01dd077e5afd15e63a4834c
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+
+PODFILE CHECKSUM: 7fc6a8c2fed0085ffac900299c4a79a26747b683
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,17 @@
+/* 
+  Title.strings
+  coinsph-ios
+
+  Created by kukuh on 21/05/22.
+  
+*/
+
+"coins.lite" = "Coins-Lite";
+"my.wallets" = "My Wallets";
+"history" = "History";
+"you.have.cashed.out.to" = "You've cashed out to %@";
+"you.have.received.payment" = "You've received payment";
+"details" = "Details:";
+"sender" = "Sender";
+"receiver" = "Receiver";
+"amount" = "Amount";

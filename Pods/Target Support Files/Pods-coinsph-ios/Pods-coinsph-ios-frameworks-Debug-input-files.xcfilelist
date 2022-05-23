@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-coinsph-ios/Pods-coinsph-ios-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/R.swift.Library/Rswift.framework
